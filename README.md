@@ -1,1 +1,1 @@
-# This repo is only for learning purpose of Graphql
+# This repo is only for learning purposes of Graphql
